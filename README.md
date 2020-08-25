@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**JoaoFernandoR/JoaoFernandoR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is João Fernando Ribeiro, i am from Brazil currently living in the city of Ponta Grossa, state of Paraná.  
 
-Here are some ideas to get you started:
+I have a college degree in Physics from the Institute of Physics of São Carlos [IFSC](https://www2.ifsc.usp.br/portal-ifsc/ "IFSC") (University of São Paulo - USP). I am passionate about development and  i'm currently looking for an work opportunity , I have some personal jobs all listed here on Github.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+I am confortable working with:
+* HTML
+* CSS 
+* Javascript 
+* React 
+* React native 
+* NodeJS
+
+But im always learning new technologies. 
+
+All of this in a Linux environment OF COURSE 😀 
+
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaofernandorib)](https://www.linkedin.com/in/joaofernandorib)
