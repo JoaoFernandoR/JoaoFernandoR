@@ -16,4 +16,4 @@ But im always learning new technologies.
 
 All of this in a Linux environment OF COURSE 😀 
 
-- 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaofernandorib)](https://www.linkedin.com/in/joaofernandorib)  [![Email Badge](https://img.shields.io/badge/gmail-contact_me-blueviolet?link=mailto:joao.amorim@alumni.usp.br?style=flat&logo=appveyo)](mailto:joao.amorim@alumni.usp.br)
+- 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaofernandorib)](https://www.linkedin.com/in/joaofernandorib)  [![Email Badge](https://img.shields.io/badge/alumni.usp-contact_me-blueviolet?link=mailto:joao.amorim@alumni.usp.br?style=flat&logo=appveyo)](mailto:joao.amorim@alumni.usp.br)
