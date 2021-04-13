@@ -2,13 +2,13 @@
 
 My name is João Fernando Ribeiro, i am from Brazil currently living in the city of Ponta Grossa, state of Paraná.  
 
-I have a college degree 🎓 in Physics from the Institute of Physics of São Carlos [IFSC](https://www2.ifsc.usp.br/portal-ifsc/ "IFSC") (University of São Paulo - USP). I am passionate about development and currently working as a Front End Developer at PLSS Soluções where im refactoring and improving a Mobile App using React Native and Typescript. I also have some personal jobs all listed here on Github.
+I have a college degree 🎓 in Physics from the Institute of Physics of São Carlos [IFSC](https://www2.ifsc.usp.br/portal-ifsc/ "IFSC") (University of São Paulo - USP). I am passionate about development and currently working as a Front End Developer at PLSS Soluções where im refactoring and improving a Mobile App using React Native with Typescript and implementing new functions in a Angular Website . I also have some personal jobs all listed here on Github.
 
 I am comfortable working with:
 * HTML / CSS / Javascript / TypeScript
 * Sass / Styled Components
 * MongoDB / SQlite / PostgreSQL
-* React 
+* React / Angular
 * React native 
 * NodeJS
 
