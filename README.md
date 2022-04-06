@@ -16,10 +16,5 @@ But i am always learning new technologies.
 
 All of this in a Linux environment OF COURSE 😀 
 
-- ⚙️ Some of my projects
-1. https://bgsurvey.netlify.app/ 
-	* repository : [github](https://github.com/JoaoFernandoR/dspesquisa)
-2. https://git-search-hub.netlify.app/
-	* repository : [github](https://github.com/JoaoFernandoR/github-users)
   
 - 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaofernandorib)](https://www.linkedin.com/in/joaofernandorib)  [![Email Badge](https://img.shields.io/badge/alumni.usp-contact_me-blueviolet?link=mailto:joao.amorim@alumni.usp.br?style=flat&logo=appveyo)](mailto:joao.amorim@alumni.usp.br)
